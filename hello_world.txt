@@ -1,0 +1,2 @@
+This is some text that I am adding to this text document.
+The hope is that I will be able to learn Git quickly.
